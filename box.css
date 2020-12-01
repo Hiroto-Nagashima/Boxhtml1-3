@@ -2,4 +2,14 @@
   width:300px;
   height: 300px;
   background-color:#FF0000;
+  border:5px dashed white;
+  margin:30px;
+  padding:30px;
+
+}
+.box2{
+  width: 100px;
+  height: 100px;
+  background-color:blue;
+  border-bottom:solid black 5px;
 }
